@@ -237,7 +237,7 @@ video {
 
 .app__dialog {
   z-index: 12;
-  background-color: grey;
+  background-color: black;
   width: 290px;
   height: 180px;
   border-radius: 2px;
