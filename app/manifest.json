@@ -1,7 +1,7 @@
 {
-  "short_name": "QR Scanner",
-  "name": "QR Code Scanner",
-  "description": "QR code scanner progressive web application",
+  "short_name": "Scan",
+  "name": "Scan",
+  "description": "Crowdful Scan",
   "display": "standalone",
   "orientation": "portrait",
   "icons": [
@@ -16,6 +16,6 @@
     "type": "image/png"
   }],
   "start_url": "/index.html?utm_source=homescreen",
-  "theme_color": "#e4e4e4",
+  "theme_color": "#fff",
   "background_color": "#fff"
 }
