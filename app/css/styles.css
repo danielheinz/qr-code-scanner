@@ -276,6 +276,7 @@ video {
   position: absolute;
   bottom: 13px;
   right: 20px;
+  color: white;
 }
 
 .app__dialog-open,
