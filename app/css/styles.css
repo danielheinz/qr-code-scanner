@@ -4,6 +4,7 @@ html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,ifr
 body {
   font-family: Roboto, Helvetica,Arial,sans-serif;
   -webkit-font-smoothing: antialiased;
+  background-color: black;
 }
 
 .app__layout {
@@ -170,9 +171,9 @@ video {
 }
 
 .custom-scanner {
-  width: 100%;
+  width: 60%;
   height: 2px;
-  background: red;
+  background: white;
   position: absolute;
   -webkit-transition: all 200ms linear;
   -moz-transition: all 200ms linear;
@@ -202,7 +203,7 @@ video {
   z-index: 9999;
 }
 
-.app__snackbar-msg {
+/*.app__snackbar-msg {
   width: 250px;
   min-height: 50px;
   background-color: orange;
@@ -228,7 +229,7 @@ video {
   text-transform: initial;
   margin-bottom: 10px;
   z-index: 9999;
-}
+}*/
 
 .app__snackbar--hide {
   opacity: 0;
@@ -377,7 +378,7 @@ video {
   bottom: 20px;
   right: 20px;
   border-radius: 50%;
-  background-color: cyan;
+  /*background-color: cyan;*/
   background-image: url("/images/photo-camera.svg");
   background-repeat: no-repeat;
   background-size: 26px;
