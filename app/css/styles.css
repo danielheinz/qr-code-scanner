@@ -240,7 +240,7 @@ video {
   background-color: black;
   width: 290px;
   height: 180px;
-  border-radius: 15px 50px 30px;
+  border-radius: 15px;
   display: flex;
   position: absolute;
   left: 0;
