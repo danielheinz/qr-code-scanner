@@ -171,9 +171,8 @@ video {
 }
 
 .custom-scanner {
-  width: 60%;
+  width: 100%;
   height: 2px;
-  text-align: center;
   background: white;
   position: absolute;
   -webkit-transition: all 200ms linear;
