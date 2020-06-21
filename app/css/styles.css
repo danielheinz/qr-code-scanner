@@ -266,7 +266,7 @@ video {
   outline: none;
   font-size: 15px;
   margin-top: 25px;
-  color: rgba(0,0,0,.54);
+  color: orange;
   font-weight: 500;
 }
 
@@ -319,7 +319,7 @@ video {
 .app__overlay-right {
   width: 52px;
   height: 340px;
-  background: #7f7f7f;
+  background: purple;
 }
 
 .app__overlay-left {
@@ -359,7 +359,7 @@ video {
   right: 0;
   bottom: 0;
   top: 0;
-  background: rgba(0, 0, 0, 0.55);
+  background: cyan;
   z-index: 11;
 }
 
